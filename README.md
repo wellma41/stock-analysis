@@ -9,7 +9,7 @@
 
 ### 2017 and 2018 differences 
 	![2017 Stock Analysis](https://raw.githubusercontent.com/wellma41/stock-analysis/main/VBA_Challenge_2017.PNG)   
-	![2018 Stock Analysis] (VBA_Challenge_2018.PNG)  
+	![2018 Stock Analysis] (https://github.com/wellma41/stock-analysis/blob/main/VBA_Challenge_2018.PNG?raw=true)  
 	
 	Based on the return percentages of both years 2017 seems to have been a much better year for the stocks we kept track of.
 	In 2017 11 out of the 12 stocks, TERP being the exception, had a positive return percentage and thus a profit if the stocks were held on to.
